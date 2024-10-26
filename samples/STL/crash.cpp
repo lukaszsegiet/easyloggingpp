@@ -1,11 +1,11 @@
  //
  // This file is part of Easylogging++ samples
  //
- // Demonstration on how crashes are handled. You can set second argument of this progam to `y`
+ // Demonstration on how crashes are handled. You can set second argument of this program to `y`
  // and application will not abort before crash is handled
  //
  // Revision 1.1
- // @author mkhan3189
+ // @author abumq (Majid Q.)
  //
 
 #include "easylogging++.h"

@@ -1,9 +1,9 @@
  // This file is part of Easylogging++ samples
  //
- // Sample to demonstrate using occasionals and other hit counts based logging
+ // Sample to demonstrate using occasional and other hit count based logging
  //
  // Revision 1.2
- // @author mkhan3189
+ // @author abumq (Majid Q.)
  //
 
 #include "easylogging++.h"
